@@ -24,11 +24,6 @@ The goal of this project is to make penetration testing and vulnerability assess
 > [!TIP]
 > __PhoneSploit Pro__ can also be used as a complete ADB Toolkit to perform various operations on Android devices over Wi-Fi as well as USB. 
 
-# Screenshots
-
-![Screenshot Page 1](docs/Screenshot-1.png)
-![Screenshot Page 2](docs/Screenshot-2.png)
-![Screenshot Page 3](docs/Screenshot-3.png)
 
 # Features 
 ## v1.0
@@ -121,16 +116,16 @@ Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requ
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone (https://github.com/B4D1A/SploitXShakox)
 ```
 ```
-cd PhoneSploit-Pro/
+cd SploitXShakox/
 ```
 ```
 pip install -r requirements.txt
 ```
 ```
-python3 phonesploitpro.py
+python3 exploit.py
 ```
 #### On Windows :
 
@@ -139,10 +134,10 @@ Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requ
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/B4D1A/SploitXShakox
 ```
 ```
-cd PhoneSploit-Pro/
+cd SploitXShakox/
 ```
 ```
 pip install -r requirements.txt
@@ -152,7 +147,7 @@ pip install -r requirements.txt
 2. Copy all files from the extracted `platform-tools` or `adb` directory to __PhoneSploit-Pro__ directory and then run :
 
 ```
-python phonesploitpro.py
+python exploit.py
 ```
 
 # Tutorial
@@ -289,7 +284,7 @@ or Follow this link : [Click Here](https://docs.metasploit.com/docs/using-metasp
 
 Visit the `scrcpy` GitHub page for latest installation instructions : [Click Here](https://github.com/Genymobile/scrcpy#get-the-app)
 
-**On Windows** : Copy all the files from the extracted **scrcpy** folder to **PhoneSploit-Pro** folder.
+**On Windows** : Copy all the files from the extracted **scrcpy** folder to **SploitXShakox** folder.
 
 > [!IMPORTANT]  
 > If `scrcpy` is not available for your Linux distro like **Kali Linux**, then you can either manually install it : [Manual Guide](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md),
