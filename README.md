@@ -116,7 +116,7 @@ Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requ
 
 Open terminal and paste the following commands : 
 ```
-git clone (https://github.com/B4D1A/SploitXShakox)
+git clone https://github.com/B4D1A/SploitXShakox
 ```
 ```
 cd SploitXShakox/
